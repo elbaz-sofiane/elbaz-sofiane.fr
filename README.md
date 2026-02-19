@@ -70,6 +70,28 @@ L'accès est protégé via un système d’authentification sécurisé.
 
 ---
 
+## 👀 La partie Admin
+
+### Le login
+
+<img width="1919" height="866" alt="Capture d&#39;écran 2026-02-19 115838" src="https://github.com/user-attachments/assets/5101b579-bc36-407a-bc46-f674dec8eedb" />
+
+
+
+### Voila l'acceuil  :
+
+<img width="1919" height="866" alt="Capture d&#39;écran 2026-02-19 115853" src="https://github.com/user-attachments/assets/73219ebb-f5b5-4fc2-b6cd-1ac49eae3b54" />
+
+### Ici, c'est l'ajout de projets : 
+
+<img width="1919" height="866" alt="Capture d&#39;écran 2026-02-19 115853" src="https://github.com/user-attachments/assets/d322d9ba-e4be-4ec4-9b3d-56aa65462cc3" />
+
+### Et ici l'édition et la suppression des projets : 
+
+<img width="1551" height="731" alt="Capture d&#39;écran 2026-02-19 124107" src="https://github.com/user-attachments/assets/07bcbd2b-40d1-4bb5-8077-deb5e4093c89" />
+
+---
+
 ## 📌 Améliorations futures
 
 - 🌍 Bouton de traduction instantanée
