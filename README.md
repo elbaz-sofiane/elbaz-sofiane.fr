@@ -71,6 +71,7 @@ L'accès est protégé via un système d’authentification sécurisé.
 ---
 
 ## 👀 La partie Admin
+(Pour des raisons de sécurités, tous le systeme administrateur n'est pas visible sur ce github.)
 
 ### Le login
 
