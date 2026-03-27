@@ -380,6 +380,5 @@ ajt ca au style
 <?php include 'include/footer.php'; ?>
 
     <script src="/asset/script/script.js"></script>
-    <script src="/asset/script/projects-toggle.js"></script>
 </body>
 </html>
